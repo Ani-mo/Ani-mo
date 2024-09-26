@@ -1,13 +1,7 @@
-### Hi there 👋, my name is Arturs
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
-Skills: VUE JS / REACT / JS / HTML / CSS
-
-- 🔭 I’m currently working on this page.  
+![](https://media.discordapp.net/attachments/1063426987827417088/1283709278879744021/albiononline-rock.gif?ex=66f66fee&is=66f51e6e&hm=72a6d760825c98ac94e02d138b53e43ab87ae4512a19d3be81a89f7974291dce&=)
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='vk' height='40'>](https://vk.com/all_from_you)  
+
+
+
 
